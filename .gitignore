@@ -6,6 +6,7 @@ playwright-report/
 e2e/artifacts/
 
 # Environment files (never commit secrets)
+# Env files (never commit secrets)
 .env
 
 # Logs
